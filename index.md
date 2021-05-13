@@ -1,5 +1,4 @@
 ---
-title: "Welcome to my blog"
+title: "The Lawrence Normie Blog"
 ---
-
-I'm glad you are here. I plan to talk about ...
+Welcome to my blog. Here you will learn about all manner of absurd and bizzare things that interest me
